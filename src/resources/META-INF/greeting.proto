@@ -1,0 +1,6 @@
+package greeting_sample;
+
+message Greeting {
+	required string name = 1;
+	required string message = 2;
+}
